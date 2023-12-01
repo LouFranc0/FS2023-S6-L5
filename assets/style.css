@@ -1,0 +1,98 @@
+body{
+    background-color: #141414;
+    margin: 20px;
+}
+
+
+.flex-container {
+    display: flex;
+
+  }
+  
+  .flex-container > div {
+
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+  .conteiner-fluid{
+    justify-content: space-between;
+  }
+  .navBar0 {
+    display:flex;
+  }
+  .svg1 {
+    padding:10px;
+  }
+  .navbar2{
+    display:flex;
+    justify-content: space-between;
+  }
+  .navbar3{
+    display: flex;
+  }
+  .title {
+    display: flex;
+  }
+  .btn {
+    display: flex;
+  }
+.img{
+    display: flex;
+    align-items: center;
+}
+.img-fluid{
+    displey:flex;
+}
+.list1 {
+    text-decoration: none;
+}
+
+.d-flex{
+    overflow:hidden;
+}
+.pdB {
+    padding-bottom: 90px;
+}
+.bi{
+    color: #7E7E7E;
+    display: flex;
+    flex-direction: row;
+    margin-right:20px;
+    width:100%;
+}
+
+.container {
+    display: flex;
+    margin-top: 50px;
+    padding-left:100px;
+}
+
+.link-offset-2 {
+    text-decoration: none;
+}
+.coloText {
+    color:#7E7E7E;
+
+}
+
+.footerBox {
+    display:flex;
+}
+
+.btnFooter{
+    display: flex;
+    margin-left: 100px;
+    background-color: transparent;
+    color: #7E7E7E;
+    border-color: #7E7E7E;
+    border-style: solid;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.copyFooter {
+    color: #7E7E7E;
+    display: block;
+    margin-left: 95px;
+}
